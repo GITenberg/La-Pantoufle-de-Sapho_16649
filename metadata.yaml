@@ -1,0 +1,40 @@
+_repo: La-Pantoufle-de-Sapho_16649
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dolorès, D.
+    alias: Dolores, D.
+    gutenberg_agent_id: '6845'
+    url: http://www.gutenberg.org/2009/agents/6845
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sacher-Masoch, Leopold, Ritter von
+    aliases:
+    - Von Sacher-Masoch, Leopold, Ritter
+    - Sacher-Masoch, Ritter von (Leopold)
+    - Sacher-Masosch, Leopold, Ritter von
+    birthdate: 1835
+    deathdate: 1895
+    gutenberg_agent_id: '2220'
+    url: http://www.gutenberg.org/2009/agents/2220
+    wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch
+description: ''
+gutenberg_bookshelf:
+- FR Séduction et libertinage
+- FR Littérature
+gutenberg_issued: '2005-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16649'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: La Pantoufle de Sapho
+url: http://www.gutenberg.org/ebooks/16649
